@@ -64,6 +64,6 @@ git clone https://github.com:nicothin/web-design.git
     git merge main
   ```
 
-![Sofa](/Winx-Club-Enchantix%20%E2%80%94%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.jpg)
+
 
   
